@@ -2,3 +2,19 @@
 ---
 @import "main";
 @import "{{ site.theme }}";
+
+body{
+  padding-top: 5%;
+  padding-left: 5%;
+  background-color: "#222222" ;
+}
+
+nav {
+  font-size: 30px;
+  text-align: center;
+  word-spacing: 1.5vw;
+}
+
+.header {
+  font-size: 40px;
+}

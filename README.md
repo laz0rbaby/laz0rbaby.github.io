@@ -22,5 +22,8 @@ To run locally:
 - `cd /mnt/wsl/laz0rbaby.github.io`
 - `bundle exec jekyll serve`
 
-Deployment is simply pushing to main. Can deploy from a branch instead under Settings
-> Pages > Build and deployment
+Deployment is simply pushing to main. Can deploy from a branch instead under Settings > Pages > Build and deployment
+
+## Debugging Tips
+
+- delete cache for the website
