@@ -15,7 +15,7 @@ such as:
 
 ## How to Use
 
-[laz0rbaby.github.io](laz0rbaby.github.io)
+[laz0rbaby.github.io](https://laz0rbaby.github.io)
 
 To run locally:
 - Launch wsl
